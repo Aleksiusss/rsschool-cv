@@ -1,5 +1,5 @@
 # Aleksey Gulevich
-![mountains](D:\Разное\afon.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Arnold_Schwarzenegger_by_Gage_Skidmore_3.jpg/800px-Arnold_Schwarzenegger_by_Gage_Skidmore_3.jpg)
 ## My contacts:
 * Phone: +375 29 388-54-03
 * E-mail: tkomp14@mail.ru
