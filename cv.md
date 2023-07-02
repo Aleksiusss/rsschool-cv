@@ -1,5 +1,5 @@
 # Aleksey Gulevich
-![mountains](/afon.jpg)
+![mountains](D:\Разное\afon.jpg)
 ## My contacts:
 * Phone: +375 29 388-54-03
 * E-mail: tkomp14@mail.ru
