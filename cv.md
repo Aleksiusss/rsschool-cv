@@ -1,4 +1,5 @@
 # Aleksey Gulevich
+![mountains](/afon.jpg)
 ## My contacts:
 * Phone: +375 29 388-54-03
 * E-mail: tkomp14@mail.ru
@@ -15,7 +16,13 @@ My strengths:
 * HTML
 * CSS
 ## Code Example
-
+```
+function multiply(a, b){
+   return a * b
+}
+```
+## Experience
+https://github.com/Aleksiusss/rsschool-cv/blob/gh-pages/cv.md
 ## Education
 Gomel State University
 * mathematics
