@@ -1,0 +1,19 @@
+header {
+   text-align: center
+}
+
+body {font-family: Arial}
+
+main {
+   text-align: justify
+}
+
+footer {
+   text-align: right;
+   border-top-width: 2pt;
+   border-top-style: dotted;
+   border-top-color: lightgrey;
+   width: 50%;
+   min-width: 300px;
+   margin-left: 50%;
+}
